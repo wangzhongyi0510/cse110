@@ -23,7 +23,7 @@ I have different hobbies. Here is the list of my hobbies.
   
 My family wants me to play different kinds of sports. When I was young, I play different sport from Monday to Saturday. I only have one day off, so I can take a rest on Sunday. Having hobbies is a good way to make new friends. 
 
-My favorite soccer club is Barcelona. Please check the [official website](https://www.barcelona.com/).
+My favorite soccer club is Barcelona. Please check the [official website](https://www.fcbarcelona.com/).
 
 ## Food Choice
 From my perspectives, I enjoy all kinds of food. The United States is a culture melting pot. I can try diverse dishes. On the top of the list, it is my favorite dishes.
