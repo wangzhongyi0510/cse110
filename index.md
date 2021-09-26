@@ -36,10 +36,10 @@ From my perspectives, I enjoy all kinds of food. The United States is a culture 
 
 
 ## Task this year
--[ ] Keep good grade
--[x] Make a girlfriend
--[ ] Find some research oppotunity
--[ ] Looking for an internship
--[x] Stay mentally and physically healthy
+- [ ] Keep good grade
+- [x] Make a girlfriend
+- [ ] Find some research oppotunity
+- [ ] Looking for an internship
+- [x] Stay mentally and physically healthy
 
 
