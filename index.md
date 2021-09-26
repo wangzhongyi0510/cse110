@@ -1,10 +1,10 @@
 # Zhongyi Wang's User Page
 
 There are four section
-[The programmer](the-programmer)
-[Hobby](hobby)
-[Food Choice](food-choice)
-[Task this year](task-this-year)
+[The programmer](#the-programmer)
+[Hobby](#hobby)
+[Food Choice](#food-choice)
+[Task this year](#task-this-year)
 
 ## The Programmer
 ![This is an image](123.jpeg)
